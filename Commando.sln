@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commando", "Commando\Commando\Commando.csproj", "{34152611-0DD6-473D-AA65-3C4E93121222}"
 	ProjectSection(ProjectDependencies) = postProject
 		{FDBC8B32-0789-4E13-9579-411A352AFA74} = {FDBC8B32-0789-4E13-9579-411A352AFA74}
